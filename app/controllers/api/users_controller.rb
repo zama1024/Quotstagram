@@ -10,6 +10,7 @@ class Api::UsersController < ApplicationController
   end
 
   def user_params
+    byebug
     params.require(:user).permit(:username,:password)
   end
 end
