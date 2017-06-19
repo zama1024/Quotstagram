@@ -15,6 +15,6 @@ Things you may want to cover:
 
 * How to run the test suite
 
-* Services (job queues, etc.)
+* Services
 
 * Deployment instruction
