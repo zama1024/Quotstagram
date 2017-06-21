@@ -17,4 +17,4 @@ Things you may want to cover:
 
 * Services
 
-* Deployment instruction
+* Deployment instructions
